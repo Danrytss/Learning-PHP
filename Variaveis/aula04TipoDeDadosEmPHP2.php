@@ -1,4 +1,11 @@
 <?php
+/*No php temos 08 tipos de dados, divididos em três grupos
+
+-tipos básicos: inteiro, string, ponto flutuante e boolenao;
+-tipos compostos: arrays e objetos;
+-dados especiais: resource e null
+*/
+
 
 // tipos básicos
 
@@ -30,12 +37,13 @@ $nascimento = new DateTime(); //objetos
 //echo "<br/>";
 //echo "<br/>";
 
-$arquivo = fopen("tipoDeDadosEmPHP.php" , "r"); // resource
+$arquivo = fopen("aula02tipoDeDadosEmPHP.php" , "r"); // resource
 
 //echo $arquivo
 //var_dump($arquivo);
 
-$nulo = NULL; // null
+$nulo = NULL; // null, ausencia de valor
+
 
 
 ?>
