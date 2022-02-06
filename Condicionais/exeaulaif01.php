@@ -1,6 +1,6 @@
 <?php
 
-$salarioBase = 8000.00;
+$salarioBase = 8000.00; //Tem uma galera no Twitter que chama isso de mixaria
 
 $salarioBaixo = 2600.00;
 $salarioMedio = 2601.00;
